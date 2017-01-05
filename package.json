@@ -1,0 +1,20 @@
+{
+  "name": "data-crawler-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "amqplib": "^0.5.1",
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "mongoose": "^4.7.5",
+    "request": "^2.79.0",
+    "util": "^0.10.3"
+  }
+}

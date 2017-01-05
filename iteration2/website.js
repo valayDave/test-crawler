@@ -1,0 +1,3 @@
+var Website = function(){
+    
+}
